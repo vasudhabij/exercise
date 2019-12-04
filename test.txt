@@ -1,3 +1,4 @@
 hi
 
 bug 123
+bug 124 fixed
